@@ -13,5 +13,9 @@
       "matches": ["*://*.mozilla.org/*"],
       "js": ["borderify.js"]
     }
-  ]
+  ],
+
+  "browser_action": {
+    "browser_style": true
+  }
 }
